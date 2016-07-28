@@ -1,22 +1,22 @@
 ﻿
-・pwd：check if the current file
+--->pwd：check if the current file
 
-・git init：Initialize a warehouse
+--->git init：Initialize a warehouse
 
-・添加文件到仓库
-->git add <file>
-->git commit -m ""
+--->添加文件到仓库
+-->git add <file>
+-->git commit -m ""
 
-・git status
+--->git status
 
-・git diff
+--->git diff
 
-・git rm --cached <目录名>
+--->git rm --cached <目录名>
 
-・git log
+--->git log
 ->git log --pretty=oneline
 
-・
+--->git commit -a -m ""
 
 ・
 
