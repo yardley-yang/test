@@ -11,7 +11,7 @@
 
 ・git diff
 
-・
+・git rm --cached <目录名>
 
 ・
 
