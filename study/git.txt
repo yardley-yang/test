@@ -13,7 +13,8 @@
 
 ・git rm --cached <目录名>
 
-・
+・git log
+->git log --pretty=oneline
 
 ・
 
